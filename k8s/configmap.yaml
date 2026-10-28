@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: c9s504-git
+  namespace: c9s504-legacy
+data:
+  marker: c9s504-marker-git-v1
